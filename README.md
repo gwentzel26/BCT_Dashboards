@@ -1,7 +1,8 @@
 # **Broome County Transit Study**
   
 ## **Description (Motivation? The why? Solved Problems?)**
-      This project aimed to uncover meaningful insights into rider behavior and transit system performance. Using visual dashboards and spatial analysis tools, we explored several key questions:
+
+This project aimed to uncover meaningful insights into rider behavior and transit system performance. Using visual dashboards and spatial analysis tools, we explored several key questions:
 
 - Which routes are the most heavily used?
 - What are the busiest stops in the system?
