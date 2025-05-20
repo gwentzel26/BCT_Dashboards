@@ -12,7 +12,7 @@ This project aimed to uncover meaningful insights into rider behavior and transi
 
       
 ## **Table of Contents** 
-  - [Tools] (#tools)
+  - [Tools](#tools)
   - [Cleaning](#cleaning)
   - [Visuals](#visuals)
   - [Contributions](#contributions)
