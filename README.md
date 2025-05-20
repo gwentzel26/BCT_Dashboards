@@ -12,13 +12,18 @@ This project aimed to uncover meaningful insights into rider behavior and transi
 
       
 ## **Table of Contents** 
-      
+  - [Tools] (#tools)
   - [Cleaning](#cleaning)
   - [Visuals](#visuals)
   - [Contributions](#contributions)
   - [Questions](#questions)
   -[Links](#links)
-      
+
+## **Tools <a id="tools"></a>**
+  - R for Algorithmic Data Cleaning
+  - ArcGIS for mapping visualizations and website story map presentation
+  - Tableau for interactive dashboard visualizations and analysis
+    
 ## **Cleaning <a id="cleaning"></a>**
   • Started with ~3,000 individual bus GPS files (one per week, per bus across 47 buses).
 • Created one data frame per bus using loops in R, adding a Bus ID column to each.
