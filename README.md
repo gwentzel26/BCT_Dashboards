@@ -46,13 +46,14 @@ Created Nearest Stop Assignment
 
 Example of one of the initial R-scripts for cleaning and merging all of the weeks of data into one Bus file
 
-![CleaningAlgo](TransitCleaningAlgo-1.png)
+<img width="1699" alt="TransitCleaningAlgo" src="https://github.com/user-attachments/assets/2090a949-7a9b-47cc-be2c-a077eef935fe" />
+
       
 ## **Visuals <a id="visuals"></a>** 
-  ![Ridership Dashboard]<img width="1360" alt="RidershipDashboard" src="https://github.com/user-attachments/assets/4ce66632-73aa-41b4-ae8f-1b0b20120f35" />
+  <img width="897" alt="map" src="https://github.com/user-attachments/assets/852ea677-b77d-4eb5-be9c-d8a493c1b8c8" />
+  <img width="1360" alt="RidershipDashboard" src="https://github.com/user-attachments/assets/4ce66632-73aa-41b4-ae8f-1b0b20120f35" />
 
-  ![Ridership Dashboard](RidershipDashboard-1.png)
-  
+
 
     
 ## **Questions <a id="questions"></a>**
@@ -62,5 +63,6 @@ Example of one of the initial R-scripts for cleaning and merging all of the week
 
 ## **Links <a id="links"></a>**
 Best Website Experience is on a computer
+<img width="1426" alt="Broome County Transit Study" src="https://github.com/user-attachments/assets/9546d201-df9b-42fd-8db4-da533e3a2984" />
 
 https://storymaps.arcgis.com/stories/c7c294705bee42c186271ae2da46b8c1
