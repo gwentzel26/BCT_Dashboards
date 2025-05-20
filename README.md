@@ -46,11 +46,12 @@ Created Nearest Stop Assignment
 
 Example of one of the initial R-scripts for cleaning and merging all of the weeks of data into one Bus file
 
-![alt text](TransitCleaningAlgo-1.png)
+![CleaningAlgo](TransitCleaningAlgo-1.png)
       
 ## **Visuals <a id="visuals"></a>** 
-  ![alt text](map.png)
-  ![alt text](RidershipDashboard-1.png)
+  ![map](map.png)<img width="1360" alt="RidershipDashboard" src="https://github.com/user-attachments/assets/4ce66632-73aa-41b4-ae8f-1b0b20120f35" />
+
+  ![Ridership Dashboard](RidershipDashboard-1.png)
   
 
     
