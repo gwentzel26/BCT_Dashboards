@@ -49,7 +49,7 @@ Example of one of the initial R-scripts for cleaning and merging all of the week
 ![CleaningAlgo](TransitCleaningAlgo-1.png)
       
 ## **Visuals <a id="visuals"></a>** 
-  ![map](map.png)<img width="1360" alt="RidershipDashboard" src="https://github.com/user-attachments/assets/4ce66632-73aa-41b4-ae8f-1b0b20120f35" />
+  ![Ridership Dashboard]<img width="1360" alt="RidershipDashboard" src="https://github.com/user-attachments/assets/4ce66632-73aa-41b4-ae8f-1b0b20120f35" />
 
   ![Ridership Dashboard](RidershipDashboard-1.png)
   
