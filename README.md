@@ -12,14 +12,14 @@ This project aimed to uncover meaningful insights into rider behavior and transi
 
       
 ## **Table of Contents** 
-  - [Tools](#tools)
+  - [Software](#software)
   - [Cleaning](#cleaning)
   - [Visuals](#visuals)
   - [Contributions](#contributions)
   - [Questions](#questions)
   -[Links](#links)
 
-## **Tools <a id="tools"></a>**
+## **Software <a id="software"></a>**
   - R for Algorithmic Data Cleaning
   - ArcGIS for mapping visualizations and website story map presentation
   - Tableau for interactive dashboard visualizations and analysis
